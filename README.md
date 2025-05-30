@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shahzaib Wajid 👋
 
-<!--
-**shahzaibwajid/shahzaibwajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student | 💻 Aspiring Web Developer | ⚙️ Learning C++, HTML, CSS, JavaScript
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C++, HTML, CSS, JavaScript
+- MySQL, PHP
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔗 [Mobile Store Inventory System](https://github.com/YourRepoLink)
+
+## ✨ Fun Facts
+- I love building mobile store apps in C++
+- I'm currently learning full-stack web development
+
+## 📫 Contact Me
+- Email: shahzaibwajid45@gmail.com
