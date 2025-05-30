@@ -8,7 +8,7 @@
 - Git & GitHub
 
 ## 📂 Projects
-- 🔗 [Mobile Store Inventory System](https://github.com/YourRepoLink)
+- 🔗 [Github commands](https://github.com/shahzaibwajid/git-commands-practice)
 
 ## ✨ Fun Facts
 - I love building mobile store apps in C++
@@ -16,3 +16,8 @@
 
 ## 📫 Contact Me
 - Email: shahzaibwajid45@gmail.com
+
+- ![Shahzaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzaibwajid&show_icons=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shahzaibwajid)
+
